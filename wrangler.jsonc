@@ -1,0 +1,7 @@
+{
+  "name": "hjdda-preferred-sub",
+  "pages_build_output_dir": "./dist",
+  "compatibility_date": "2026-10-07",
+  "vars": {"TUNNEL_ORIGIN": "https://catan-cw5.pages.dev"},
+  "kv_namespaces": [{"binding": "SUB_STORE", "id": "43e39150762a4b8ab6aaf09df43ea641"}]
+}
